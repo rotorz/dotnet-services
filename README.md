@@ -1,14 +1,10 @@
 # dotnet-services
 
-[![npm version](https://badge.fury.io/js/%40rotorz%2Fdotnet-services.svg)](https://badge.fury.io/js/%40rotorz%2Fdotnet-services)
-[![Dependency Status](https://david-dm.org/rotorz/dotnet-services.svg)](https://david-dm.org/rotorz/dotnet-services)
-[![devDependency Status](https://david-dm.org/rotorz/dotnet-services/dev-status.svg)](https://david-dm.org/rotorz/dotnet-services#info=devDependencies)
-
 Discovers services in a project where services are uniquely identified using the .NET type
 system. A graph can then be constructed to analyze service dependencies.
 
 ```sh
-$ npm install --save @rotorz/dotnet-services
+$ npm install --save rotorz/dotnet-services
 ```
 
 This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
