@@ -1,6 +1,6 @@
 {
   "name": "@rotorz/dotnet-services",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discovers services in a project where services are uniquely identified using the .NET type system. A graph can then be constructed to analyze service dependencies.",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
     "unity3d-package"
   ],
   "dependencies": {
-    "@rotorz/dotnet-type-utils": "~1.0.1"
+    "@rotorz/dotnet-type-utils": "github:rotorz/dotnet-type-utils#semver:^1.0.1"
   }
 }
