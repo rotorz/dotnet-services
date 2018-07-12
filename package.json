@@ -17,6 +17,6 @@
     "unity3d-package"
   ],
   "dependencies": {
-    "@rotorz/dotnet-type-utils": "github:rotorz/dotnet-type-utils#semver:^1.0.1"
+    "@rotorz/dotnet-type-utils": "github:rotorz/dotnet-type-utils#semver:^1.0.2"
   }
 }

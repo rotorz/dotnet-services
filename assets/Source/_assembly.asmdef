@@ -1,0 +1,6 @@
+{
+    "name": "rotorz.dotnet-services",
+    "references": [
+        "rotorz.dotnet-type-utils"
+    ]
+}
