@@ -4,10 +4,13 @@ Discovers services in a project where services are uniquely identified using the
 system. A graph can then be constructed to analyze service dependencies.
 
 ```sh
-$ npm install --save rotorz/dotnet-services
+$ yarn add rotorz/dotnet-services
 ```
 
-This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
+This package is compatible with the [unity3d-package-syncer][tool] tool. Refer to the
+tools' [README][tool] for information on syncing packages into a Unity project.
+
+[tool]: https://github.com/rotorz/unity3d-package-syncer
 
 
 ## Contribution Agreement
