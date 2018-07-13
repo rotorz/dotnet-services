@@ -11,7 +11,7 @@ namespace Rotorz.Games.Services
     /// <summary>
     /// Sorts services so that root-most dependencies occur first in reslting array.
     /// </summary>
-    internal sealed class ServiceDependencySorter
+    public sealed class ServiceDependencySorter
     {
         /// <summary>
         /// Sort the specified services by their dependencies so that root-most services
